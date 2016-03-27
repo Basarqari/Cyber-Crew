@@ -1,4 +1,4 @@
-https://travis-ci.org/Basarqari/Cyber-Crew.svg?branch=master
+[![Build Status](https://travis-ci.org/Basarqari/Cyber-Crew.svg?branch=master)](https://travis-ci.org/Basarqari/Cyber-Crew)
 # Cyber-Crew
 WebRTC 
 #ScreenShots or Demo
