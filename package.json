@@ -14,7 +14,7 @@
     "webrtc",
     "cyber crew"
   ],
-  "author": "Basar Qaei",
+  "author": "Basar Qari",
   "license": "MIT",
   "dependencies": {
     "node-static": "~0.7.1",
@@ -22,19 +22,4 @@
     "express": "~3.4.0"
   }
 }
-{
-  "name": "cybercrew",
-  "description": "a really cool app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "4.1.1"
-  }
-}
-{
-  "name": "myapp",
-  "description": "a really cool app",
-  "version": "0.0.1",
-  "engines": {
-    "npm": "2.1.x"
-  }
-}
+
